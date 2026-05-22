@@ -1,0 +1,40 @@
+<USER_REQUEST>
+aaSMARTSTEP: IoT-Enabled Piezoelectric Footpath Tile for Sustainable Micro-Energy Harvesting and Real-Time Analytics
+
+
+Dr.Shailaja Uke                                          Shrivardhan Patil                                      Sudarshan Patil
+Vishwakarma Institute of Technology       Vishwakarma Institute of Technology      Vishwakarma Institute of Technology
+Pune,India                                                  Pune,India                                               Pune,India
+shailaja.uke@vit.edu                                 shrivardhan.patil241@vit.edu                  sudarshan.patil24@vit.edu
+
+Pruthviraj Pawar                                         Sanskar Patil
+Vishwakarma Institute of Technology       Vishwakarma Institute of Technology  
+Pune India                                                  Pune India
+pruthviraj.pawar24@vit.edu                      sanskar.patil241@vit.edu
+ 
+Abstract - Blue carbon ecosystems like mangroves, seagrass meadows, and salt marshes contribute to climate regulation by sequestering a large share of the atmospheric carbon dioxide. Nevertheless, the current systems of carbon accounting are characterised by weak transparency, poor verification, centralized governance, and fragmented incorporation of real-time sensing of environment. A few MRV systems now existing are based primarily on ground surveys or satellite/aerial view, which adds uncertainty, undermines trust of stakeholders, and creates opportunities to game the system with carbon credits. A Hybrid Blockchain-Enabled MRV Framework Satellite remote sensing (IoT)-based ground-truthing Confidence-aware carbon estimation Blockchain-enabled immutable storage for transparent blue carbon were designed in this paper for blue carbon under the name of HB-MRV. The proposed framework is based on the use of Sentinel-2 satellite data and ESP32-based IoT sensor nodes for environmental monitoring, and employs machine-learning-assisted uncertainty modeling to provide confidence weighted
+<truncated 23137 bytes>
+2–425, 2024.
+[3] Friess, D. A., et al., “Remote Sensing of Mangrove Carbon Stocks: Current Advances and Limitations,” Remote Sensing of Environment, vol. 296, 113693, 2023.
+[4] Taşcı, E., and Yildirim, E., “Blockchain-Enabled MRV Systems for Carbon Markets,” Renewable and Sustainable Energy Reviews, vol. 190, 114056, 2024.
+[5] Chen, Y., et al., “Integrating IoT and Remote Sensing for Ecosystem Monitoring,” Environmental Modelling & Software, vol. 178, 105645, 2025.
+[6] Singh, R., et al., “Decentralized Registries for Climate Finance Integrity,” Energy Policy, vol. 181, 113892, 2026. i want to build excatly this type word document for this project .stick to the actual features of project dont add anything which is not in project and include all functions used .stick to the formal tone like i pasted and give me detailed cotent for this similar i shared
+
+</USER_REQUEST>
+<ADDITIONAL_METADATA>
+The current local time is: 2026-05-22T18:22:28+05:30.
+
+The user's current state is as follows:
+Active Document: d:\Desktop\BlueCarbon-MRV-main\BlueCarbon-MRV-main\backend\ai-backend\requirements.txt (LANGUAGE_UNSPECIFIED)
+Cursor is on line: 1
+Other open documents:
+- d:\Desktop\BlueCarbon-MRV-main\BlueCarbon-MRV-main\backend\ai-backend\src\blockchain.py (LANGUAGE_PYTHON)
+- d:\Desktop\BlueCarbon-MRV-main\BlueCarbon-MRV-main\backend\ai-backend\requirements.txt (LANGUAGE_UNSPECIFIED)
+- d:\Desktop\BlueCarbon-MRV-main\BlueCarbon-MRV-main\backend\ai-backend\.env.example (LANGUAGE_UNSPECIFIED)
+- d:\Desktop\BlueCarbon-MRV-main\BlueCarbon-MRV-main\backend\ai-backend\.env (LANGUAGE_UNSPECIFIED)
+- d:\Desktop\BlueCarbon-MRV-main\BlueCarbon-MRV-main\backend\ai-backend\src\CarbonTokenABI.json (LANGUAGE_JSON)
+</ADDITIONAL_METADATA>
+<USER_SETTINGS_CHANGE>
+The user changed setting `Model Selection` from None to Claude Opus 4.6 (Thinking). No need to comment on this change if the user doesn't ask about it. If reporting what model you are, please use a human readable name instead of the exact string.
+</USER_SETTINGS_CHANGE>
+
